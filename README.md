@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @s0lda
-- 👀 I’m interested in cars, programming and sport.
+
 - 🌱 I’m currently learning Python and other languages.
