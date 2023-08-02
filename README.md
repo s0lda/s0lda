@@ -1,2 +1,2 @@
-
-- 🌱 I’m currently learning Python and other languages.
+    777
+/.deceased./
